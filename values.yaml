@@ -1,0 +1,7 @@
+
+# Valores que los administradores van a poder modificar
+
+frontReplicaCount: 3
+backReplicaCount: 3
+
+appTitle: My Jump The Queue 
