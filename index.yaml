@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-jtq-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-04T13:23:28.919962149+01:00"
+    description: A Helm chart for Kubernetes for my Jump The Queue app.
+    digest: 61863b9cdc64f1738514d0118ab94c11b082d276419c649daf6d95b2d855cfe0
+    name: my-jtq-app
+    type: application
+    urls:
+    - my-jtq-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-04T13:23:28.919317843+01:00"
